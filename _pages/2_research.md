@@ -4,11 +4,14 @@ permalink: /research/
 ---
 ## Working papers
 
-**<span style="font-size: 0.7em;">Rational Inattention Choices in Firms and Households (Job Market Paper)</span>**  
+<p style="margin-bottom: 0.5em;"><strong>Rational Inattention Choices in Firms and Households (Job Market Paper)</strong></p>
 
-**<span style="font-size: 0.65em;">Abstract.</span>** <span style="font-size: 0.65em;">Recent surveys indicate that households correlate higher expected inflation with lower output growth, aligning with a supply-side view. In contrast, firms and experts often associate higher expected inflation with stronger economic fundamentals and anticipate higher output growth, reflecting a demand-side view. This paper attributes the divergent views to natural asymmetry in agents' attention choices. Given their respective objectives, households find it optimal to allocate more attention to supply shocks which are more important for them, while firms optimally allocate more attention to demand shocks. I develop a dynamic stochastic general equilibrium (DSGE) model with rational inattentive households and firms and compare its prediction to survey evidence. I then shed light on the potential impact on business cycle fluctuations, and policy predictions beyond standard models.</span>
+<p style="margin-bottom: 0.5em;"><strong>Abstract.</strong> Recent surveys indicate that households correlate higher expected inflation with lower output growth, aligning with a supply-side view. In contrast, firms and experts often associate higher expected inflation with stronger economic fundamentals and anticipate higher output growth, reflecting a demand-side view. This paper attributes the divergent views to natural asymmetry in agents' attention choices. Given their respective objectives, households find it optimal to allocate more attention to supply shocks which are more important for them, while firms optimally allocate more attention to demand shocks. I develop a dynamic stochastic general equilibrium (DSGE) model with rational inattentive households and firms and compare its prediction to survey evidence. I then shed light on the potential impact on business cycle fluctuations, and policy predictions beyond standard models.</p>
 
-<span style="font-size: 0.5em;">*Presentations:  EEA 2024*; 53rd Annual Conference of the Money, Macro and Finance  Society (MMF)*; PhD-Economics Virtual Seminar (EVS ); RES 2024 Annual Conference, Belfast; EPOC Doctoral Workshop, Venice; Norges Bank Workshop; Expectations in Dynamic Macroeconomic Models, Vienna; Economics Research Jamboree (2023); Behavioural Finance Group (BFG) (2023); PhD Economics Virtual Seminar; Warwick/Oxford Macro/International workshop (2023); Oxford Macro Working Group Seminar (2022).*</span>
+<p style="margin-top: 0.5em; margin-bottom: 0.5em;">
+<em>Presentations: EEA 2024; 53rd Annual Conference of the Money, Macro and Finance Society (MMF); PhD-Economics Virtual Seminar (EVS); RES 2024 Annual Conference, Belfast; EPOC Doctoral Workshop, Venice; Norges Bank Workshop; Expectations in Dynamic Macroeconomic Models, Vienna; Economics Research Jamboree (2023); Behavioural Finance Group (BFG) (2023); PhD Economics Virtual Seminar; Warwick/Oxford Macro/International workshop (2023); Oxford Macro Working Group Seminar (2022).</em>
+</p>
+
 
 
 
