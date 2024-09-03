@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Maximilian Kasy"
+title                    : "Yifan Zhang"
 title_separator          : "-"
-name                     : "Maximilian Kasy"
+name                     : "Yifan Zhang"
 description:	  > # this means to ignore newlines until "baseurl:"
   Research on machine learning, experimental design, economic inequality, and optimal policy
-url                      : "https://maxkasy.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://yifan-zhang-in.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/files/profilepic.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
