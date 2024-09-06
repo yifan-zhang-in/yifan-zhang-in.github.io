@@ -13,7 +13,7 @@ body {
   padding: 0;
   color: $text-color;
   font-family: $global-font-family;
-  font-size: type-size-7; 
+  font-size: type-size-6; 
   line-height: 1.5;
 
   &.overflow--hidden {
@@ -82,7 +82,7 @@ small,
 }
 
 p {
-  font-size: $type-size-7;
+  font-size: $type-size-6;
   margin-bottom: 0.35em;
   margin-top: 0;
   line-height: 1.5;
