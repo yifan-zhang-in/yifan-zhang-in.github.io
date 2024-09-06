@@ -51,12 +51,10 @@ h3 {
 }
 
 h4 {
-  font-size: $type-size-8;
-  margin: 0em 1em 5em 0;
-  padding-left: 1em;
-  padding-right: 1em;
-  font-style: italic;
-  line-height: 1.3;
+  font-size: $type-size-6;
+  margin-bottom: 0.35em;
+  margin-top: 0;
+  line-height: 1.5;
   font-weight: normal; /* Removes bold styling */
   text-align: justify;
 }
