@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  margin: 0;
+  margin: 0.5em;
   padding: 0;
   color: $text-color;
   font-family: $global-font-family;
@@ -48,6 +48,7 @@ h2 {
 }
 
 h3 {
+  margin-top: 2em;
   font-size: $type-size-6;
   margin-bottom: 1em;
   color: $darker-gray;
