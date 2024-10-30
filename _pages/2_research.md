@@ -4,13 +4,13 @@ permalink: /research/
 ---
 ## Working papers
 
-### **Rational Inattention Choices in Firms and Households (Job Market Paper)** [[Paper]](/home/files/papers/JMP_Yifan_Zhang.pdf)
+### **Rational Inattention Choices in Firms and Households (Job Market Paper)** [[Paper]](/files/papers/JMP_Yifan_Zhang.pdf)
 
 #### **Abstract.** Recent surveys indicate that households correlate higher expected inflation with lower output growth, aligning with a supply-side view. In contrast, firms and experts often associate higher expected inflation with stronger economic fundamentals and anticipate higher output growth, reflecting a demand-side view. This paper attributes the divergent views to natural asymmetry in agents' attention choices. Given their respective objectives, households find it optimal to allocate more attention to supply shocks which are more important for them, while firms optimally allocate more attention to demand shocks. I develop a dynamic stochastic general equilibrium (DSGE) model with rational inattentive households and firms and compare its prediction to survey evidence. I then shed light on the potential impact on business cycle fluctuations, and policy predictions beyond standard models.
 
 <p class="small" style="font-size: 0.65em;"> Presentations: EEA 2024; 53rd Annual Conference of the Money, Macro and Finance Society (MMF); PhD-Economics Virtual Seminar (EVS); RES 2024 Annual Conference, Belfast; EPOC Doctoral Workshop, Venice; Norges Bank Workshop; Expectations in Dynamic Macroeconomic Models, Vienna; Economics Research Jamboree (2023); Behavioural Finance Group (BFG) (2023); PhD Economics Virtual Seminar; Warwick/Oxford Macro/International workshop (2023); Oxford Macro Working Group Seminar (2022).</p>
 
-### **Limited Memory, Time-Varying Expectations and Asset Pricing** (with Guido Ascari) [[Paper]](/home/files/papers/wp_tv_expectations.pdf)
+### **Limited Memory, Time-Varying Expectations and Asset Pricing** (with Guido Ascari) [[Paper]](/files/papers/wp_tv_expectations.pdf)
 
 #### **Abstract.** We propose a theory of asset pricing based on limited memory and time-varying expectations. The former guarantees a tendency to revert to fundamentals. The latter induces `momentum' in asset prices and it is motivated by a novel empirical observation about a time-varying mapping from price-dividend ratio to return expectations in survey data. The simulated method of moments shows that the model quantitatively replicates a host of asset-pricing features, including equity premium, excessive volatility, persistence of price-dividend ratio, predictability of excess returns and the consumption correlation puzzle. The model also generates empirically plausible subjective expectations.
 
