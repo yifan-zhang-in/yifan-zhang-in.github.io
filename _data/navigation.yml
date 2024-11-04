@@ -4,8 +4,8 @@ main:
     url: /research/
   - title: Teaching
     url: /teaching/
-  # - title: Presentations
-  #   url: /presentations/
+  - title: CV
+    url: /files/CV_Yifan_Zhang.pdf/
   # - title: Code and Apps
   #   url: /code-and-apps/	
   # - title: Commentary
