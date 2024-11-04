@@ -4,7 +4,7 @@ permalink: /research/
 ---
 ## Working papers
 
-### **Rational Inattention Choices in Firms and Households (Job Market Paper)** [[Paper]](/files/papers/JMP_Yifan_Zhang.pdf)
+### **Rational Inattention Choices in Firms and Households (Job Market Paper)** [[Paper]](/files/papers/RI_JMP_Yifan_Zhang.pdf)
 
 #### **Abstract.** Recent surveys indicate that households correlate higher expected inflation with lower output growth, aligning with a supply-side view. In contrast, firms and experts often associate higher expected inflation with stronger economic fundamentals and anticipate higher output growth, reflecting a demand-side view. This paper attributes the divergent views to natural asymmetry in agents' attention choices. Given their respective objectives, households find it optimal to allocate more attention to supply shocks which are more important for them, while firms optimally allocate more attention to demand shocks. I develop a dynamic stochastic general equilibrium (DSGE) model with rational inattentive households and firms and compare its prediction to survey evidence. I then shed light on the potential impact on business cycle fluctuations, and policy predictions beyond standard models.
 
